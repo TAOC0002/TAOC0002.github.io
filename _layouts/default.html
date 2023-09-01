@@ -55,10 +55,10 @@
       
       <section>
         <div class="topnav">
-          <a href="/">Home</a>
-          <a href="./another-page.html">Experiences</a>
-          <a href="./another-page.html">Projects</a>
-          <a href="./another-page.html">Miscellaneous</a>
+          <a href="/" <?php if ($page == 1) echo ' class="active"'; ?>>Home</a>
+          <a href="./another-page.html" <?php if ($page == 2) echo ' class="active"'; ?>>Experiences</a>
+          <a href="./another-page.html" <?php if ($page == 3) echo ' class="active"'; ?>>Projects</a>
+          <a href="./another-page.html" <?php if ($page == 4) echo ' class="active"'; ?>>Miscellaneous</a>
         </div>
 
       {{ content }}
