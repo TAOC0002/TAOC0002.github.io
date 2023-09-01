@@ -55,10 +55,14 @@
       
       <section>
         <div class="topnav">
-          <a href="/" <?php if ($page == 1) echo ' class="active"'; ?>>Home</a>
-          <a href="./another-page.html" <?php if ($page == 2) echo ' class="active"'; ?>>Experiences</a>
-          <a href="./another-page.html" <?php if ($page == 3) echo ' class="active"'; ?>>Projects</a>
-          <a href="./another-page.html" <?php if ($page == 4) echo ' class="active"'; ?>>Miscellaneous</a>
+          <script type="text/javascript">
+            $url = window.location.href;
+            $last_part = url.split('/').at(-1);
+          </script>
+          <a href="/" class="<?php if ($last_part=='taoc0002.github.io') {echo 'active'; } else  {echo 'nonactive';}?>">Home</a>
+          <a href="./another-page.html" class="<?php if ($last_part=='another-page.html') {echo 'active'; } else  {echo 'nonactive';}?>">Experiences</a>
+          <a href="./another-page.html" class="<?php if ($last_part=='another-page.html') {echo 'active'; } else  {echo 'nonactive';}?>">Projects</a>
+          <a href="./another-page.html" class="<?php if ($last_part=='another-page.html') {echo 'active'; } else  {echo 'nonactive';}?>">Miscellaneous</a>
         </div>
 
       {{ content }}
