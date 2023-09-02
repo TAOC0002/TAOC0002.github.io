@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
-
+<div class="topnav">
+  <a href="/" class="active">Home</a>
+  <a href="./another-page.html">Experiences</a>
+  <a href="./another-page.html">Projects</a>
+  <a href="./another-page.html">Miscellaneous</a>
+</div>
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
