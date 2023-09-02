@@ -69,7 +69,7 @@
 
 .topnav {
   overflow: scroll;
-  background-color: #0277B3;
+  background-color: #77b5fe;
   display: flex;
   justify-content: space-between;
   padding-left: 5%;
@@ -88,10 +88,10 @@
 }
 
 .topnav a:hover {
-  color: #dddddd;
+  color: white;
 }
 
 .topnav a.active {
-  color: #dddddd;
+  color: white;
   font-weight: bold;
 }
