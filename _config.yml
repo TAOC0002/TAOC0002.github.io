@@ -5,6 +5,7 @@ description:
 show_downloads: false
 google_analytics: UA-108144808-1
 color-scheme: light
+favicon: true
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
