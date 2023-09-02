@@ -58,7 +58,8 @@
           <script type="text/javascript">
             $url = window.location.href;
             $last_part = url.split('/').at(-1);
-            console.log($last_part);
+            document.write('ygbjgbkytbjytjkuykutbhjyrbjyjtjkbtj');
+            document.write($last_part);      
           </script>
           <a href="/" class="<?php if ($last_part=='taoc0002.github.io') {echo 'active'; } else  {echo 'nonactive';}?>">Home</a>
           <a href="./another-page.html" class="<?php if ($last_part=='another-page.html') {echo 'active'; } else  {echo 'nonactive';}?>">Experiences</a>
