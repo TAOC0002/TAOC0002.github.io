@@ -10,7 +10,7 @@ layout: default
 
 I am a research engineer in the Cybersecurity department at the Institute for Infocomm Research, A*STAR, Singapore. My research interest is in AI safety and privacy. I am currently working on automatic fact-checking, ML system robustness and private language model inference.
 
-I was honored to receive my Bachelor of Engineeing degrees in Electrical and Electronic Engineering from Nanyang Technological University in 2023 and graduated with First-Class Honors. My undergraduate thesis, advised by Professor [Lihui Chen](https://dr.ntu.edu.sg/cris/rp/rp00969), involved exploring knowledge integration for prior art retrieval.
+I was honored to receive my Bachelor of Engineeing degree in Electrical and Electronic Engineering from Nanyang Technological University in 2023 and graduated with First-Class Honors. My undergraduate thesis, advised by Professor <a href="https://dr.ntu.edu.sg/cris/rp/rp00969" target="_blank">Lihui Chen</a> [Lihui Chen](https://dr.ntu.edu.sg/cris/rp/rp00969), involved exploring knowledge integration for prior art retrieval.
 
 When I’m not immersed in research, I love to play badminton and watch detective movies.
 
