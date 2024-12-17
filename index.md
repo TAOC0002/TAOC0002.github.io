@@ -7,13 +7,14 @@ layout: default
   <a href="./another-page.html">Projects</a>
   <a href="./another-page.html">Miscellaneous</a>
 </div>
+
+I am a research engineer in the Cybersecurity department at the Institute for Infocomm Research, A*STAR, Singapore. My research interest is in AI safety and privacy. I am currently working on automatic fact-checking, ML system robustness and private language model inference.
+
+I was honored to receive my Bachelor of Engineeing degrees in Electrical and Electronic Engineering from Nanyang Technological University in 2023 and graduated with First-Class Honors. My undergraduate thesis, advised by Professor [Lihui Chen](https://dr.ntu.edu.sg/cris/rp/rp00969), involved exploring knowledge integration for prior art retrieval.
+
+When I’m not immersed in research, I love to play badminton and watch detective movies.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
