@@ -3,9 +3,9 @@ layout: default
 ---
 <div class="topnav">
   <a href="/" class="active">Home</a>
-  <a href="./another-page.html">Experiences</a>
-  <a href="./another-page.html">Projects</a>
-  <a href="./another-page.html">Miscellaneous</a>
+  <a href="./experiences.html">Experiences</a>
+  <a href="./experiences.html">Projects</a>
+  <a href="./experiences.html">Miscellaneous</a>
 </div>
 
 I am a research engineer in the Cybersecurity department at the Institute for Infocomm Research, A*STAR, Singapore. My research interest is in AI safety and privacy. I am currently working on automatic fact-checking, ML system robustness and private language model inference.
@@ -28,4 +28,3 @@ When I’m not immersed in research, I love to play badminton and watch detectiv
 ### There's a horizontal rule below this.
 
 * * * -->
-

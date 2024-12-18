@@ -65,7 +65,7 @@ streamlined testing and evaluation of job applicants.</li>
     <div class="body">
       <p>Nanyang Technological University</p>
       <ul>
-        <li>BEng (Hons) in Electrical and Electronic Engineering (EEE)</li>
+        <li>BEng (Hons) in Electrical and Electronic Engineering</li>
         <li>Honours with Highest Distinction</li>
       </ul>
     </div>
