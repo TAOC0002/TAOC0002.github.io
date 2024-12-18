@@ -96,23 +96,21 @@
 }
 
 $gutter: 30px;
-$border-width: 4px;
+$border-width: 0px;
 $dot-diameter: 8px;
 
 .timeline {
   width:100%;
   max-width:800px;
-  // background:#fff;
   padding: 100px 50px;
   position: relative;
   &:before {
     content: '';
     position: absolute;
     top: 0px;
-    left:calc(33% + 15px); //$gutter/2
+    // left:calc(33% + 15px); //$gutter/2
     bottom: 0px;
     width: $border-width;
-    // background: #ddd;
   }
   &:after {
     content: "";
@@ -128,7 +126,7 @@ $dot-diameter: 8px;
   .title {
     margin-bottom: .5em;
     float: left;
-    width: 33%;
+    width: 21%;
     padding-right: $gutter;
     text-align: right;
     position: relative;
@@ -138,7 +136,6 @@ $dot-diameter: 8px;
       width: $dot-diameter;
       height: $dot-diameter;
       border: $border-width solid cornflowerblue;
-      // background-color:#fff;
       border-radius:100%;
       top: 15%;
       right: -$dot-diameter;
@@ -155,8 +152,8 @@ $dot-diameter: 8px;
   }
   .body {
     margin: 0 0 3em;
-    float: right;
-    width: 66%;
+    float: left;
+    width: 70%;
     padding-left: $gutter;
     p {
       line-height: 1.4em;

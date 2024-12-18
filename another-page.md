@@ -1,6 +1,5 @@
 ---
 layout: default
-title: another
 ---
 <div class="topnav">
   <a href="/">Home</a>
