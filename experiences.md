@@ -56,6 +56,8 @@ streamlined testing and evaluation of job applicants.</li>
   </div>
 </div>
 
+* * *
+
 ## Education
 <div class="timeline">
   <div class="entry">
