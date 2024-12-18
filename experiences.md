@@ -8,11 +8,11 @@ layout: default
   <a href="./experiences.html">Miscellaneous</a>
 </div>
 
-# Work Experience
+## Work Experience
 <div class="timeline">
   <div class="entry">
     <div class="title">
-      <h3>Aug 2023 -- Present</h3>
+      <h3>Aug 2023 &mdash; <br /> Present</h3>
       <p>Research Engineer</p>
     </div>
     <div class="body">
@@ -28,7 +28,7 @@ layout: default
   </div>
   <div class="entry">
     <div class="title">
-      <h3>Feb 2022 -- May 2022</h3>
+      <h3>Feb 2022 &mdash; <br /> May 2022</h3>
       <p>Software Engineering Intern</p>
     </div>
     <div class="body">
@@ -42,7 +42,7 @@ from internal audit reports.</li>
   </div>
   <div class="entry">
     <div class="title">
-      <h3>May 2021 -- Jul 2021</h3>
+      <h3>May 2021 &mdash; <br /> Jul 2021</h3>
       <p>AI Engineering Intern</p>
     </div>
     <div class="body">
@@ -56,11 +56,11 @@ streamlined testing and evaluation of job applicants.</li>
   </div>
 </div>
 
-# Education
+## Education
 <div class="timeline">
   <div class="entry">
     <div class="title">
-      <h3>Aug 2019 -- Jun 2023</h3>
+      <h3>Aug 2019 &mdash; <br /> Jun 2023</h3>
     </div>
     <div class="body">
       <p>Nanyang Technological University</p>
