@@ -11,7 +11,7 @@ layout: default
 <div class="timeline">
   <div class="entry">
     <div class="title">
-      <h3>2023 - Present</h3>
+      <h3>2023 Aug - Present</h3>
       <p>Research Engineer</p>
     </div>
     <div class="body">
