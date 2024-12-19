@@ -21,11 +21,9 @@ layout: default
     <div class="item white">
       <div class="content">
         <h2>Mamba implementation on the induction head task</h2>
-        <p>Adapted from the implementation of [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) and [hrbigelow/mamba-reall](https://github.com/hrbigelow/mamba-recall) in PyTorch with architectural modifications. This is the plaintext, HE-friendly version of Mamba for secure inference. The model consists of two MambaBlock layers with polynomially approximated SiLU and Softplus activation functions. RMSNorm is only applied once before the output layer that converts embeddings back to tokens and thus does not need to be included in the HE implementation. </p>
+        <p>Adapted from the implementation of <a href="https://github.com/alxndrTL/mamba.py" target="_blank">alxndrTL/mamba.py</a> and <a href="https://github.com/hrbigelow/mamba-recall" target="_blank">hrbigelow/mamba-reall</a> in PyTorch with architectural modifications. This is the plaintext, HE-friendly version of Mamba for secure inference. The model consists of two MambaBlock layers with polynomially approximated SiLU and Softplus activation functions. RMSNorm is only applied once before the output layer that converts embeddings back to tokens and thus does not need to be included in the HE implementation. </p>
         <a href="https://github.com/TAOC0002/mamba_he.git" target="_blank"><i class="fa-brands fa-github"></i>&nbsp;Code</a>
       </div>
     </div>
   </div>
 </div>
-
-* * * -->
