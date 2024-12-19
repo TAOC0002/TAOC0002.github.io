@@ -177,8 +177,6 @@ $dot-diameter: 8px;
   display: grid;
   grid-template-rows: repeat(3, 1fr);
   gap: 30px;
-  // width: 35vw;
-  // height: 90vh;
   padding: 10px;
   margin: 0;
 }
@@ -205,4 +203,8 @@ $dot-diameter: 8px;
 
 .white p {
   color: rgba(51, 51, 51, 0.8);
+}
+
+.overflow {
+  overflow-y: scroll;
 }
