@@ -205,6 +205,6 @@ $dot-diameter: 8px;
   color: rgba(51, 51, 51, 0.8);
 }
 
-.overflow {
-  overflow-y: scroll;
+html {
+  width: 100vw;
 }
