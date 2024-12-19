@@ -4,7 +4,7 @@ layout: default
 <div class="topnav">
   <a href="/">Home</a>
   <a href="./experiences.html" class="active">Experiences</a>
-  <a href="./experiences.html">Projects</a>
+  <a href="./projects.html">Projects</a>
   <a href="./experiences.html">Miscellaneous</a>
 </div>
 
