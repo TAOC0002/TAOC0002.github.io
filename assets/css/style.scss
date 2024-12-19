@@ -3,6 +3,10 @@
 
 @import "jekyll-theme-minimalist";
 
+html {
+  overflow-y: scroll;
+}
+
 .img-circle {
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
@@ -97,6 +101,28 @@
 $gutter: 20px;
 $border-width: 0px;
 $dot-diameter: 8px;
+
+.timeline {
+  width:100%;
+  max-width:800px;
+  padding: 100px 50px;
+  position: relative;
+  box-shadow: $container-shadow;
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0px;
+    left:25%; //$gutter/2
+    bottom: 0px;
+    width: $border-width;
+    background: #ddd;
+  }
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  } 
+}
 
 .entry {
   clear: both;
