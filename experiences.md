@@ -57,17 +57,15 @@ streamlined testing and evaluation of job applicants.</li>
 * * *
 
 ## Education
-<div class="timeline">
-  <div class="entry">
-    <div class="title">
-      <h3>Aug 2019 &mdash; <br /> Jun 2023</h3>
-    </div>
-    <div class="body">
-      <p>Nanyang Technological University</p>
-      <ul>
-        <li>BEng (Hons) in Electrical and Electronic Engineering</li>
-        <li>Honours with Highest Distinction</li>
-      </ul>
-    </div>
+<div class="entry">
+  <div class="title">
+    <h3>Aug 2019 &mdash; <br /> Jun 2023</h3>
+  </div>
+  <div class="body">
+    <p>Nanyang Technological University</p>
+    <ul>
+      <li>BEng (Hons) in Electrical and Electronic Engineering</li>
+      <li>Honours with Highest Distinction</li>
+    </ul>
   </div>
 </div>
