@@ -24,9 +24,9 @@ layout: default
         <h2>taochen at SemEval-2022 Task 5</h2>
         <h3>Research Project</h3>
         <p>This is a multi-modal deep learning system for the Multimedia Automatic Misogyny Identification (MAMI) challenge, a SemEval task of identifying and classifying misogynistic messages in online memes. I adapted multi-task learning for the multimodal subtasks of the MAMI challenge to transfer knowledge among the correlated subtasks and leveraged ensemble learning for synergistic integration of models individually trained for the subtasks.</p>
-        <a href="https://github.com/TAOC0002/semeval22-task5.git" target="_blank"><i class="fa-brands fa-github"></i>&nbsp;Code</a>
-        <a href="https://aclanthology.org/2022.semeval-1.89/" target="_blank"><i class="fa-solid fa-file"></i>&nbsp;Paper</a>
-        <a href="https://aclanthology.org/2022.semeval-1.89.mp4" target="_blank"><i class="fa-solid fa-video"></i>&nbsp;Vidoe</a>
+        <a href="https://github.com/TAOC0002/semeval22-task5.git" target="_blank"><i class="fa-brands fa-github"></i>&nbsp;Code</a><br />
+        <a href="https://aclanthology.org/2022.semeval-1.89/" target="_blank"><i class="fa-solid fa-file"></i>&nbsp;Paper</a><br />
+        <a href="https://aclanthology.org/2022.semeval-1.89.mp4" target="_blank"><i class="fa-solid fa-video"></i>&nbsp;Video</a>
       </div>
     </div>
     <div class="item white">
