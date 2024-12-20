@@ -5,7 +5,7 @@ layout: default
   <a href="/">Home</a>
   <a href="./experiences.html" class="active">Experiences</a>
   <a href="./projects.html">Projects</a>
-  <a href="./experiences.html">Miscellaneous</a>
+  <a href="./miscell.html">Miscellaneous</a>
 </div>
 
 ## Work Experience

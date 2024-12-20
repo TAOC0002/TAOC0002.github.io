@@ -5,7 +5,7 @@ layout: default
   <a href="/">Home</a>
   <a href="./experiences.html">Experiences</a>
   <a href="./projects.html" class="active">Projects</a>
-  <a href="./experiences.html">Miscellaneous</a>
+  <a href="./miscell.html">Miscellaneous</a>
 </div>
 
 <div id="grid" class="tab-content active">
