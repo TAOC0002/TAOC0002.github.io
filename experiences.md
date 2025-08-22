@@ -71,7 +71,7 @@ layout: default
     <div class="body">
       <p>Carnegie Mellon University</p>
       <ul>
-        <li>Master of Science in Artificial Intelligence Engineering - Information Security</li>
+        <li>Master of Science in Artificial Intelligence Engineering (Information Security)</li>
       </ul>
     </div>
   </div>
