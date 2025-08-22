@@ -1,6 +1,6 @@
-title: Chen Tao (Jennifer)
+title: Chen Tao (Jenny)
 logo: /assets/img/logo.png
-position: Research Engineer at A*STAR
+position: Master's Student at CMU
 # description: Never be so polite, you forget your power; Never wield such power, you forget to be polite.
 show_downloads: false
 google_analytics: UA-108144808-1
@@ -19,16 +19,16 @@ sidebar:
     link: https://scholar.google.com/citations?user=cB13SBUAAAAJ&hl=en
   - name: Email
     icon: <i class="fa-solid fa-envelope"></i>
-    link: mailto:taoc@i2r.a-star.edu.sg
+    link: mailto:chentao@andrew.cmu.edu
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/TAOC0002 
   - name: Linkedin
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/chen-tao-16a91b201/
-  - name: CV
+  - name: Resume
     icon: <i class="fa-solid fa-file"></i>
-    link: ./files/CV.pdf
+    link: ./files/Resume.pdf
   # - name: Blog
   #   icon: <i class="fa-solid fa-pen"></i>
   #   link: https://www.bodunhu.com/blog/
