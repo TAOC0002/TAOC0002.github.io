@@ -2,7 +2,9 @@
 
 source "https://rubygems.org"
 
-gemspec
+# Skip html-proofer / nokogumbo / rubocop. They are theme test tools, not needed
+# to serve the site, and nokogumbo fails to compile on current Homebrew Ruby.
+gemspec development_group: :theme_dev
 # commenting below to remove dependency with "github-pages" 
 # gem "github-pages", group: :jekyll_plugins
 

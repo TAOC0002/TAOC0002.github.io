@@ -209,3 +209,10 @@ $dot-diameter: 8px;
 html {
   width: 100vw;
 }
+
+body.no-sidebar section {
+  float: none;
+  width: 100%;
+  max-width: 860px;
+  padding-top: 58px;
+}
